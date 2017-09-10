@@ -1,0 +1,5 @@
+EXPORTS
+shoco_compress
+shoco_decompress
+Java_org_shoco_Shoco_compress
+Java_org_shoco_Shoco_decompress
